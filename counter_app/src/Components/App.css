@@ -1,0 +1,19 @@
+.buttons, .outputText {
+  box-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+#button {
+  margin: 5%;
+}
+
+.outputText {
+  background-color: skyblue;
+  border-style: solid;
+  text-align: center
+}
+
+body {
+  background-color: lightgreen;
+}
