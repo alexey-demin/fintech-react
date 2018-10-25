@@ -1,0 +1,14 @@
+.todoListMain {
+  box-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+::placeholder { 
+  color: black;
+  opacity: 1; 
+}
+
+body {
+  background-color: skyblue;
+}
